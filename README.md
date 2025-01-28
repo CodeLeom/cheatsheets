@@ -10,14 +10,14 @@ Don't forget to star this repository as a gesture of appreciation.
 
 | **#** | **Category**       | **Link**                                                                 |
 |-------|--------------------|--------------------------------------------------------------------------|
-| 001   | Awesome            | [Awesome Topics](https://github.com/topics/awesome)                     |
-| 002   | Awesome Cheatsheet | [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)  |
-| 003   | Tech Interview     | [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com)|
-| 004   | Tech Interview     | [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)|
-| 005   | Tech Interview     | [Google Technical Interview Cheat Sheet](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd)|
-| 006   | Complexity         | [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)                    |
-| 007   | Complexity         | [Big-O Notation](http://cooervo.github.io/Algorithms-DataStructures-BigONotation/)|
-| 008   | SEO                | [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)|
+| 1   | Awesome            | [Awesome Topics](https://github.com/topics/awesome)                     |
+| 2   | Awesome Cheatsheet | [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)  |
+| 3   | Tech Interview     | [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com)|
+| 4   | Tech Interview     | [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)|
+| 5   | Tech Interview     | [Google Technical Interview Cheat Sheet](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd)|
+| 6   | Complexity         | [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)                    |
+| 7   | Complexity         | [Big-O Notation](http://cooervo.github.io/Algorithms-DataStructures-BigONotation/)|
+| 8   | SEO                | [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)|
 
 ---
 
@@ -25,43 +25,43 @@ Don't forget to star this repository as a gesture of appreciation.
 
 | **#** | **Language** | **Link**                                                                 |
 |-------|--------------|--------------------------------------------------------------------------|
-| 009   | C            | [C Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)|
-| 010   | C++          | [C++ Basics](https://www.educba.com/c-programming-language-basics/)     |
-| 011   | Go           | [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)             |
-| 012   | Go           | [Go Devhints](https://devhints.io/go)                                   |
-| 013   | Go           | [How I Learned Go](https://dev.to/codehakase/how-i-learned-go-programming)|
-| 014   | GraphQL      | [GraphQL Devhints](https://devhints.io/graphql)                         |
-| 015   | GraphQL      | [GraphQL Shorthand Cheat Sheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)|
-| 016   | GraphQL      | [GraphQL Crash Course](https://dev.to/methodcoder/graphql-crash-course-in-10-pics-3b04)|
-| 017   | Java         | [Java OverAPI](https://overapi.com/java)                                |
-| 018   | Java         | [Java OOP Cheat Sheet](https://cheatography.com/son9912/cheat-sheets/java-oop-concept/)|
-| 019   | Java         | [Java Tutorial](https://www.educba.com/category/software-development/software-development-tutorials/java-tutorial/)|
-| 020   | Java         | [Java 8 Stream Cheat Sheet](https://dev.to/monknomo/java-8-stream-cheatsheet--oad)|
-| 021   | JavaScript   | [ES6 Quick Ref](https://quickref.me/es6.html)                           |
-| 022   | JavaScript   | [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)                |
-| 023   | JavaScript   | [ES6 Devhints](https://devhints.io/es6)                                 |
-| 024   | JavaScript   | [JavaScript OverAPI](https://overapi.com/javascript)                    |
-| 025   | JavaScript   | [JavaScript Module Cheat Sheet](https://dev.to/samanthaming/javascript-module-cheatsheet-5b4o)|
-| 026   | JavaScript   | [ES6 Arrow Functions](https://dev.to/samanthaming/es6-arrow-functions-cheatsheet-1cn)|
-| 027   | PHP          | [PHP OverAPI](https://overapi.com/php)                                  |
-| 028   | PHP          | [PHP Cheat Sheets](https://phpcheatsheets.com/)                         |
-| 029   | PHP          | [Awesome PHP Resources](https://dev.to/biros/awesome-php-resources-on-dev----3a18)|
-| 030   | Python       | [Python Devhints](https://devhints.io/python)                           |
-| 031   | Python       | [Python OverAPI](https://overapi.com/python)                            |
-| 032   | Python       | [Python Cheat Sheet](https://www.pythoncheatsheet.org)                  |
-| 033   | Python       | [Ultimate Python Cheat Sheet](https://dev.to/abhirajb/the-ultimate-python-cheatsheet-56g7)|
-| 034   | Regex        | [Regex Debuggex](https://www.debuggex.com/cheatsheet/regex/javascript)  |
-| 035   | Regex        | [Regex Devhints](https://devhints.io/regexp)                            |
-| 036   | Regex        | [Regex OverAPI](https://overapi.com/regex)                              |
-| 037   | Regex        | [Regex Cheat Sheet](https://dev.to/emmabostian/regex-cheat-sheet-2j2a)  |
-| 038   | Regex        | [Regex Cheat Sheet](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)|
-| 039   | Ruby         | [Ruby OverAPI](https://overapi.com/ruby)                                |
-| 040   | Ruby         | [Idiomatic Ruby](https://dev.to/teekay/idiomatic-ruby-writing-beautiful-code-56ef)|
-| 041   | Ruby         | [Top 10 Ruby Errors](https://dev.to/philnash/top-10-errors-from-1000-ruby-on-rails-projects-and-how-to-avoid-them-24m)|
-| 042   | SQL, MySQL   | [MySQL Devhints](https://devhints.io/mysql)                             |
-| 043   | SQL, MySQL   | [MySQL OverAPI](https://overapi.com/mysql)                              |
-| 044   | TypeScript   | [TypeScript Learn X in Y](https://learnxinyminutes.com/docs/typescript/)|
-| 045   | TypeScript   | [TypeScript Devhints](https://devhints.io/typescript)                   |
+| 9   | C            | [C Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)|
+| 10   | C++          | [C++ Basics](https://www.educba.com/c-programming-language-basics/)     |
+| 11   | Go           | [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)             |
+| 12   | Go           | [Go Devhints](https://devhints.io/go)                                   |
+| 13   | Go           | [How I Learned Go](https://dev.to/codehakase/how-i-learned-go-programming)|
+| 14   | GraphQL      | [GraphQL Devhints](https://devhints.io/graphql)                         |
+| 15   | GraphQL      | [GraphQL Shorthand Cheat Sheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)|
+| 16   | GraphQL      | [GraphQL Crash Course](https://dev.to/methodcoder/graphql-crash-course-in-10-pics-3b04)|
+| 17   | Java         | [Java OverAPI](https://overapi.com/java)                                |
+| 18   | Java         | [Java OOP Cheat Sheet](https://cheatography.com/son9912/cheat-sheets/java-oop-concept/)|
+| 19   | Java         | [Java Tutorial](https://www.educba.com/category/software-development/software-development-tutorials/java-tutorial/)|
+| 20   | Java         | [Java 8 Stream Cheat Sheet](https://dev.to/monknomo/java-8-stream-cheatsheet--oad)|
+| 21   | JavaScript   | [ES6 Quick Ref](https://quickref.me/es6.html)                           |
+| 22   | JavaScript   | [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)                |
+| 23   | JavaScript   | [ES6 Devhints](https://devhints.io/es6)                                 |
+| 24   | JavaScript   | [JavaScript OverAPI](https://overapi.com/javascript)                    |
+| 25   | JavaScript   | [JavaScript Module Cheat Sheet](https://dev.to/samanthaming/javascript-module-cheatsheet-5b4o)|
+| 26   | JavaScript   | [ES6 Arrow Functions](https://dev.to/samanthaming/es6-arrow-functions-cheatsheet-1cn)|
+| 27   | PHP          | [PHP OverAPI](https://overapi.com/php)                                  |
+| 28   | PHP          | [PHP Cheat Sheets](https://phpcheatsheets.com/)                         |
+| 29   | PHP          | [Awesome PHP Resources](https://dev.to/biros/awesome-php-resources-on-dev----3a18)|
+| 30   | Python       | [Python Devhints](https://devhints.io/python)                           |
+| 31   | Python       | [Python OverAPI](https://overapi.com/python)                            |
+| 32   | Python       | [Python Cheat Sheet](https://www.pythoncheatsheet.org)                  |
+| 33   | Python       | [Ultimate Python Cheat Sheet](https://dev.to/abhirajb/the-ultimate-python-cheatsheet-56g7)|
+| 34   | Regex        | [Regex Debuggex](https://www.debuggex.com/cheatsheet/regex/javascript)  |
+| 35   | Regex        | [Regex Devhints](https://devhints.io/regexp)                            |
+| 36   | Regex        | [Regex OverAPI](https://overapi.com/regex)                              |
+| 37   | Regex        | [Regex Cheat Sheet](https://dev.to/emmabostian/regex-cheat-sheet-2j2a)  |
+| 38   | Regex        | [Regex Cheat Sheet](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)|
+| 39   | Ruby         | [Ruby OverAPI](https://overapi.com/ruby)                                |
+| 40   | Ruby         | [Idiomatic Ruby](https://dev.to/teekay/idiomatic-ruby-writing-beautiful-code-56ef)|
+| 41   | Ruby         | [Top 10 Ruby Errors](https://dev.to/philnash/top-10-errors-from-1000-ruby-on-rails-projects-and-how-to-avoid-them-24m)|
+| 42   | SQL, MySQL   | [MySQL Devhints](https://devhints.io/mysql)                             |
+| 43   | SQL, MySQL   | [MySQL OverAPI](https://overapi.com/mysql)                              |
+| 44   | TypeScript   | [TypeScript Learn X in Y](https://learnxinyminutes.com/docs/typescript/)|
+| 45   | TypeScript   | [TypeScript Devhints](https://devhints.io/typescript)                   |
 
 ---
 
@@ -69,24 +69,24 @@ Don't forget to star this repository as a gesture of appreciation.
 
 | **#** | **Framework** | **Link**                                                                 |
 |-------|---------------|--------------------------------------------------------------------------|
-| 046   | Angular       | [Angular Cheat Sheet](https://docs.w3cub.com/angular/guide/cheatsheet.html)|
-| 047   | Angular       | [Angular Testing Cheat Sheet](https://dev.to/lysofdev/an-angular-testing-cheatsheet-5hj2)|
-| 048   | jQuery        | [jQuery Cheat Sheet](https://oscarotero.com/jquery/)                     |
-| 049   | jQuery        | [jQuery OverAPI](https://overapi.com/jquery)                             |
-| 050   | React         | [React Cheat Sheet](https://cheatsheets.shecodes.io/react)               |
-| 051   | React         | [React Devhints](https://devhints.io/react)                              |
-| 052   | React         | [React Cheat Sheet](https://reactcheatsheet.com/)                        |
-| 053   | Redux         | [React Redux Cheat Sheet](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)|
-| 054   | Redux         | [Redux Devhints](https://devhints.io/redux)                              |
-| 055   | Redux         | [Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)|
-| 056   | Vue.js        | [Vue 3 Cheat Sheet](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf)   |
-| 057   | Vue.js        | [Vue Devhints](https://devhints.io/vue)                                  |
-| 058   | Vue.js        | [Vue Cheat Sheet 1](https://dev.to/adnanbabakan/vue-cheat-sheet-1-194a)  |
-| 059   | Vue.js        | [Vue Cheat Sheet 2](https://dev.to/adnanbabakan/vue-cheat-sheet-2-5aj8)  |
-| 060   | Vue.js        | [Vue Cheat Sheet 3](https://dev.to/adnanbabakan/vue-cheat-sheet-3-advanced-4khj)|
-| 061   | Vue.js        | [Kickstart Vue.js](https://dev.to/devmount/how-to-kickstart-a-vuejs-project-2mj5)|
-| 062   | Vuex          | [Vuex Cheat Sheet](https://vuejs-tips.github.io/vuex-cheatsheet/)        |
-| 063   | Vuex          | [When to Use Vuex](https://dev.to/napoleon039/when-why-and-how-to-use-vuex-9fl)|
+| 46   | Angular       | [Angular Cheat Sheet](https://docs.w3cub.com/angular/guide/cheatsheet.html)|
+| 47   | Angular       | [Angular Testing Cheat Sheet](https://dev.to/lysofdev/an-angular-testing-cheatsheet-5hj2)|
+| 48   | jQuery        | [jQuery Cheat Sheet](https://oscarotero.com/jquery/)                     |
+| 49   | jQuery        | [jQuery OverAPI](https://overapi.com/jquery)                             |
+| 50   | React         | [React Cheat Sheet](https://cheatsheets.shecodes.io/react)               |
+| 51   | React         | [React Devhints](https://devhints.io/react)                              |
+| 52   | React         | [React Cheat Sheet](https://reactcheatsheet.com/)                        |
+| 53   | Redux         | [React Redux Cheat Sheet](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)|
+| 54   | Redux         | [Redux Devhints](https://devhints.io/redux)                              |
+| 55   | Redux         | [Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)|
+| 56   | Vue.js        | [Vue 3 Cheat Sheet](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf)   |
+| 57   | Vue.js        | [Vue Devhints](https://devhints.io/vue)                                  |
+| 58   | Vue.js        | [Vue Cheat Sheet 1](https://dev.to/adnanbabakan/vue-cheat-sheet-1-194a)  |
+| 59   | Vue.js        | [Vue Cheat Sheet 2](https://dev.to/adnanbabakan/vue-cheat-sheet-2-5aj8)  |
+| 60   | Vue.js        | [Vue Cheat Sheet 3](https://dev.to/adnanbabakan/vue-cheat-sheet-3-advanced-4khj)|
+| 61   | Vue.js        | [Kickstart Vue.js](https://dev.to/devmount/how-to-kickstart-a-vuejs-project-2mj5)|
+| 62   | Vuex          | [Vuex Cheat Sheet](https://vuejs-tips.github.io/vuex-cheatsheet/)        |
+| 63   | Vuex          | [When to Use Vuex](https://dev.to/napoleon039/when-why-and-how-to-use-vuex-9fl)|
 
 ---
 
@@ -94,34 +94,34 @@ Don't forget to star this repository as a gesture of appreciation.
 
 | **#** | **Tool**          | **Link**                                                                 |
 |-------|-------------------|--------------------------------------------------------------------------|
-| 064   | Atom              | [Atom Devhints](https://devhints.io/atom)                                |
-| 065   | Bash              | [Bash Devhints](https://devhints.io/bash)                                |
-| 066   | Bash              | [Bash Cheat Sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html) |
-| 067   | Bash              | [Evil Bash Commands](https://dev.to/devmount/9-evil-bash-commands-explained-4k5e)|
-| 068   | Docker            | [Docker Devhints](https://devhints.io/docker)                            |
-| 069   | Docker            | [Docker Cheat Sheet](https://dev.to/emarsys/the-missing-docker-cheatsheet-4dbg)|
-| 070   | Git               | [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)        |
-| 071   | Git               | [Git OverAPI](https://overapi.com/git)                                   |
-| 072   | Git               | [Advanced Git Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17)|
-| 073   | Git               | [Git Cheat Sheet for Beginners](https://dev.to/duomly/git-cheatsheet-for-beginners-5apl)|
-| 074   | Git               | [Personal Git Tricks](https://dev.to/antjanus/my-personal-git-tricks-cheatsheet-23j1)|
-| 075   | Git               | [Yet Another Git Cheat Sheet](https://dev.to/hengnee/yet-another-git-cheatsheet-4gjk)|
-| 076   | Git               | [Correct Git Commit Messages](https://dev.to/devmount/how-to-correct-git-commit-messages-402d)|
-| 077   | Git               | [Signed Git Commits in VS Code](https://dev.to/devmount/signed-git-commits-in-vs-code-36do)|
-| 078   | Node.js           | [Node.js Devhints](https://devhints.io/nodejs)                           |
-| 079   | Node.js           | [Node.js OverAPI](https://overapi.com/nodejs)                            |
-| 080   | Node.js           | [Node.js Project Architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)|
-| 081   | Node.js           | [Everything About Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)|
-| 082   | Sublime Text      | [Sublime Text Devhints](https://devhints.io/sublime-text)                |
-| 083   | Sublime Text      | [Sublime Text Shortcuts](https://shortcuts.design/toolspage-sublimetext.html)|
-| 084   | Vim               | [Vim Cheat Sheet](https://vim.rtorr.com/)                                |
-| 085   | Vim               | [Vim Devhints](https://devhints.io/vim)                                  |
-| 086   | Vim               | [Vim Cheat Sheet](https://sheet.shiar.nl/vi)                             |
-| 087   | Visual Studio Code| [VS Code Devhints](https://devhints.io/vscode)                           |
-| 088   | Visual Studio Code| [VS Code Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
-| 089   | Visual Studio Code| [VS Code macOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)|
-| 090   | Visual Studio Code| [VS Code Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)|
-| 091   | Visual Studio Code| [VS Code Shortcuts](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)|
+| 64   | Atom              | [Atom Devhints](https://devhints.io/atom)                                |
+| 65   | Bash              | [Bash Devhints](https://devhints.io/bash)                                |
+| 66   | Bash              | [Bash Cheat Sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html) |
+| 67   | Bash              | [Evil Bash Commands](https://dev.to/devmount/9-evil-bash-commands-explained-4k5e)|
+| 68   | Docker            | [Docker Devhints](https://devhints.io/docker)                            |
+| 69   | Docker            | [Docker Cheat Sheet](https://dev.to/emarsys/the-missing-docker-cheatsheet-4dbg)|
+| 70   | Git               | [Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html)        |
+| 71   | Git               | [Git OverAPI](https://overapi.com/git)                                   |
+| 72   | Git               | [Advanced Git Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17)|
+| 73   | Git               | [Git Cheat Sheet for Beginners](https://dev.to/duomly/git-cheatsheet-for-beginners-5apl)|
+| 74   | Git               | [Personal Git Tricks](https://dev.to/antjanus/my-personal-git-tricks-cheatsheet-23j1)|
+| 75   | Git               | [Yet Another Git Cheat Sheet](https://dev.to/hengnee/yet-another-git-cheatsheet-4gjk)|
+| 76   | Git               | [Correct Git Commit Messages](https://dev.to/devmount/how-to-correct-git-commit-messages-402d)|
+| 77   | Git               | [Signed Git Commits in VS Code](https://dev.to/devmount/signed-git-commits-in-vs-code-36do)|
+| 78   | Node.js           | [Node.js Devhints](https://devhints.io/nodejs)                           |
+| 79   | Node.js           | [Node.js OverAPI](https://overapi.com/nodejs)                            |
+| 80   | Node.js           | [Node.js Project Architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)|
+| 81   | Node.js           | [Everything About Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)|
+| 82   | Sublime Text      | [Sublime Text Devhints](https://devhints.io/sublime-text)                |
+| 83   | Sublime Text      | [Sublime Text Shortcuts](https://shortcuts.design/toolspage-sublimetext.html)|
+| 84   | Vim               | [Vim Cheat Sheet](https://vim.rtorr.com/)                                |
+| 85   | Vim               | [Vim Devhints](https://devhints.io/vim)                                  |
+| 86   | Vim               | [Vim Cheat Sheet](https://sheet.shiar.nl/vi)                             |
+| 87   | Visual Studio Code| [VS Code Devhints](https://devhints.io/vscode)                           |
+| 88   | Visual Studio Code| [VS Code Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
+| 89   | Visual Studio Code| [VS Code macOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)|
+| 90   | Visual Studio Code| [VS Code Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)|
+| 91   | Visual Studio Code| [VS Code Shortcuts](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)|
 
 ---
 
@@ -129,14 +129,14 @@ Don't forget to star this repository as a gesture of appreciation.
 
 | **#** | **Category** | **Link**                                                                 |
 |-------|--------------|--------------------------------------------------------------------------|
-| 092   | CSS          | [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)                       |
-| 093   | CSS          | [CSS Devhints](https://devhints.io/css)                                  |
-| 094   | CSS          | [CSS OverAPI](http://overapi.com/css)                                    |
-| 095   | Flexbox      | [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)         |
-| 096   | CSS          | [CSS Variables Cheat Sheet](https://dev.to/proticm/css-variables-cheat-sheet-32id)|
-| 097   | CSS          | [CSS Selectors Cheat Sheet](https://dev.to/iggredible/css-selectors-cheatsheet-24bh)|
-| 098   | CSS          | [CSS Animation](https://dev.to/devmount/learn-css-animation-by-creating-pure-css-loaders-3lm6)|
-| 099   | CSS          | [Learn CSS with Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)|
+| 92   | CSS          | [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)                       |
+| 93   | CSS          | [CSS Devhints](https://devhints.io/css)                                  |
+| 94   | CSS          | [CSS OverAPI](http://overapi.com/css)                                    |
+| 95   | Flexbox      | [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)         |
+| 96   | CSS          | [CSS Variables Cheat Sheet](https://dev.to/proticm/css-variables-cheat-sheet-32id)|
+| 97   | CSS          | [CSS Selectors Cheat Sheet](https://dev.to/iggredible/css-selectors-cheatsheet-24bh)|
+| 98   | CSS          | [CSS Animation](https://dev.to/devmount/learn-css-animation-by-creating-pure-css-loaders-3lm6)|
+| 99   | CSS          | [Learn CSS with Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)|
 | 100   | Emmet        | [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)                  |
 | 101   | Emmet        | [Emmet Devhints](https://devhints.io/emmet)                              |
 | 102   | Emmet        | [Emmet Love](https://dev.to/lalawuhan/emmet-love-4be5)                   |
