@@ -4,7 +4,13 @@ When I first came about cheatsheets, it was for [Tailwind CSS](https://tailwindc
 
 I hope there are one or two useful links for you regarding the technologies you use. If you know other awesome cheat sheets, don't hesitate to [make a PR](https://github.com/CodeLeom/cheatsheets/pulls) to make this list more complete.
 
+## Star this Repo
 Don't forget to star this repository as a gesture of appreciation.
+
+## Finally
+
+Having a lot of basic information at one glance is often very useful for most developers because we tend to forget the most basic things regularly as there more things to learn and catchup with😅. 
+
 
 ## General
 
@@ -175,7 +181,3 @@ Don't forget to star this repository as a gesture of appreciation.
 | 128   | Yarn         | [Yarn Cheat Sheet](https://github.com/areai51/yarn-cheatsheet)           |
 
 ---
-
-## Finally
-
-Having a lot of basic information at one glance is often very useful for most developers because we tend to forget the most basic things regularly as there more things to learn and catchup with😅. 
