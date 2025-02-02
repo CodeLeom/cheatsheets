@@ -1,6 +1,6 @@
-# A Complete CheatSheet containing 128 CheatSheets for Developers (2025)
+# A Complete CheatSheet containing 129 CheatSheets for Developers (2025)
 
-When I first came about cheatsheets, it was for [Tailwind CSS](https://tailwindcss.com/docs), and I knew how much it helped me to easily get hold of using Tailwind for development. To help many, I will be updating this cheatsheet as I find more. Look forward to list of useful Cheatsheets and tutorials for some of the top languages, frameworks, and tools out there.
+When I first came about cheatsheets, it was for [Tailwind CSS](https://flowbite.com/tools/tailwind-cheat-sheet/), and I knew how much it helped me to easily get hold of using Tailwind for development. To help many, I will be updating this cheatsheet as I find more. Look forward to list of useful Cheatsheets and tutorials for some of the top languages, frameworks, and tools out there.
 
 I hope there are one or two useful links for you regarding the technologies you use. If you know other awesome cheat sheets, don't hesitate to [make a PR](https://github.com/CodeLeom/cheatsheets/pulls) to make this list more complete.
 
@@ -114,20 +114,21 @@ Having a lot of basic information at one glance is often very useful for most de
 | 75   | Git               | [Yet Another Git Cheat Sheet](https://dev.to/hengnee/yet-another-git-cheatsheet-4gjk)|
 | 76   | Git               | [Correct Git Commit Messages](https://dev.to/devmount/how-to-correct-git-commit-messages-402d)|
 | 77   | Git               | [Signed Git Commits in VS Code](https://dev.to/devmount/signed-git-commits-in-vs-code-36do)|
-| 78   | Node.js           | [Node.js Devhints](https://devhints.io/nodejs)                           |
-| 79   | Node.js           | [Node.js OverAPI](https://overapi.com/nodejs)                            |
-| 80   | Node.js           | [Node.js Project Architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)|
-| 81   | Node.js           | [Everything About Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)|
-| 82   | Sublime Text      | [Sublime Text Devhints](https://devhints.io/sublime-text)                |
-| 83   | Sublime Text      | [Sublime Text Shortcuts](https://shortcuts.design/toolspage-sublimetext.html)|
-| 84   | Vim               | [Vim Cheat Sheet](https://vim.rtorr.com/)                                |
-| 85   | Vim               | [Vim Devhints](https://devhints.io/vim)                                  |
-| 86   | Vim               | [Vim Cheat Sheet](https://sheet.shiar.nl/vi)                             |
-| 87   | Visual Studio Code| [VS Code Devhints](https://devhints.io/vscode)                           |
-| 88   | Visual Studio Code| [VS Code Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
-| 89   | Visual Studio Code| [VS Code macOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)|
-| 90   | Visual Studio Code| [VS Code Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)|
-| 91   | Visual Studio Code| [VS Code Shortcuts](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)|
+| 78   | Git               | [Git Explorer](https://git.gaozih.com/)|
+| 79   | Node.js           | [Node.js Devhints](https://devhints.io/nodejs)                           |
+| 80   | Node.js           | [Node.js OverAPI](https://overapi.com/nodejs)                            |
+| 81   | Node.js           | [Node.js Project Architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)|
+| 82   | Node.js           | [Everything About Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)|
+| 83   | Sublime Text      | [Sublime Text Devhints](https://devhints.io/sublime-text)                |
+| 84   | Sublime Text      | [Sublime Text Shortcuts](https://shortcuts.design/toolspage-sublimetext.html)|
+| 85   | Vim               | [Vim Cheat Sheet](https://vim.rtorr.com/)                                |
+| 86   | Vim               | [Vim Devhints](https://devhints.io/vim)                                  |
+| 87   | Vim               | [Vim Cheat Sheet](https://sheet.shiar.nl/vi)                             |
+| 88   | Visual Studio Code| [VS Code Devhints](https://devhints.io/vscode)                           |
+| 89   | Visual Studio Code| [VS Code Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
+| 90   | Visual Studio Code| [VS Code macOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)|
+| 91   | Visual Studio Code| [VS Code Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)|
+| 92   | Visual Studio Code| [VS Code Shortcuts](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)|
 
 ---
 
@@ -135,34 +136,34 @@ Having a lot of basic information at one glance is often very useful for most de
 
 | **#** | **Category** | **Link**                                                                 |
 |-------|--------------|--------------------------------------------------------------------------|
-| 92   | CSS          | [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)                       |
-| 93   | CSS          | [CSS Devhints](https://devhints.io/css)                                  |
-| 94   | CSS          | [CSS OverAPI](http://overapi.com/css)                                    |
-| 95   | Flexbox      | [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)         |
-| 96   | CSS          | [CSS Variables Cheat Sheet](https://dev.to/proticm/css-variables-cheat-sheet-32id)|
-| 97   | CSS          | [CSS Selectors Cheat Sheet](https://dev.to/iggredible/css-selectors-cheatsheet-24bh)|
-| 98   | CSS          | [CSS Animation](https://dev.to/devmount/learn-css-animation-by-creating-pure-css-loaders-3lm6)|
-| 99   | CSS          | [Learn CSS with Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)|
-| 100   | Emmet        | [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)                  |
-| 101   | Emmet        | [Emmet Devhints](https://devhints.io/emmet)                              |
-| 102   | Emmet        | [Emmet Love](https://dev.to/lalawuhan/emmet-love-4be5)                   |
-| 103   | HTML         | [HTML Cheat Sheet](https://htmlcheatsheet.com/)                          |
-| 104   | HTML         | [HTML Devhints](https://devhints.io/html)                                |
-| 105   | HTML         | [HTML OverAPI](http://overapi.com/html)                                  |
-| 106   | JSON         | [JSON Cheat Sheet](https://cheatography.com/mackan90096/cheat-sheets/json/)|
-| 107   | LaTeX        | [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/)                   |
-| 108   | LaTeX        | [Let's Use LaTeX](https://dev.to/nickymarino/lets-use-latex)             |
-| 109   | Markdown     | [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)        |
-| 110   | Markdown     | [Markdown Devhints](https://devhints.io/markdown)                        |
-| 111   | Markdown     | [Markdown Cheat Sheet](https://dev.to/rattanakchea/markdown-cheatsheet-for-developers-2bjj)|
-| 112   | Pug          | [Pug Devhints](https://devhints.io/pug)                                  |
-| 113   | SASS, SCSS   | [SASS Quick Ref](https://quickref.me/sass.html)                          |
-| 114   | SASS, SCSS   | [SASS Devhints](https://devhints.io/sass)                                |
-| 115   | SASS, SCSS   | [SCSS Cheat Sheet](https://dev.to/finallynero/scss-cheatsheet-7g6)       |
-| 116   | Stylus       | [Stylus Devhints](https://devhints.io/stylus)                            |
-| 117   | Xpath        | [Xpath Devhints](https://devhints.io/xpath)                              |
-| 118   | YAML         | [YAML Cheat Sheet](https://lzone.de/#/LZone%20Cheat%20Sheets/Languages/YAML)|
-| 119   | YAML         | [YAML Devhints](https://devhints.io/yaml)                                |
+| 93   | CSS          | [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)                       |
+| 94   | CSS          | [CSS Devhints](https://devhints.io/css)                                  |
+| 95   | CSS          | [CSS OverAPI](http://overapi.com/css)                                    |
+| 96   | Flexbox      | [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)         |
+| 97   | CSS          | [CSS Variables Cheat Sheet](https://dev.to/proticm/css-variables-cheat-sheet-32id)|
+| 98   | CSS          | [CSS Selectors Cheat Sheet](https://dev.to/iggredible/css-selectors-cheatsheet-24bh)|
+| 99   | CSS          | [CSS Animation](https://dev.to/devmount/learn-css-animation-by-creating-pure-css-loaders-3lm6)|
+| 100   | CSS          | [Learn CSS with Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)|
+| 101   | Emmet        | [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)                  |
+| 102   | Emmet        | [Emmet Devhints](https://devhints.io/emmet)                              |
+| 103   | Emmet        | [Emmet Love](https://dev.to/lalawuhan/emmet-love-4be5)                   |
+| 104   | HTML         | [HTML Cheat Sheet](https://htmlcheatsheet.com/)                          |
+| 105   | HTML         | [HTML Devhints](https://devhints.io/html)                                |
+| 106   | HTML         | [HTML OverAPI](http://overapi.com/html)                                  |
+| 107   | JSON         | [JSON Cheat Sheet](https://cheatography.com/mackan90096/cheat-sheets/json/)|
+| 108   | LaTeX        | [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/)                   |
+| 109   | LaTeX        | [Let's Use LaTeX](https://dev.to/nickymarino/lets-use-latex)             |
+| 110   | Markdown     | [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)        |
+| 111   | Markdown     | [Markdown Devhints](https://devhints.io/markdown)                        |
+| 112   | Markdown     | [Markdown Cheat Sheet](https://dev.to/rattanakchea/markdown-cheatsheet-for-developers-2bjj)|
+| 113   | Pug          | [Pug Devhints](https://devhints.io/pug)                                  |
+| 114   | SASS, SCSS   | [SASS Quick Ref](https://quickref.me/sass.html)                          |
+| 115   | SASS, SCSS   | [SASS Devhints](https://devhints.io/sass)                                |
+| 116   | SASS, SCSS   | [SCSS Cheat Sheet](https://dev.to/finallynero/scss-cheatsheet-7g6)       |
+| 117   | Stylus       | [Stylus Devhints](https://devhints.io/stylus)                            |
+| 118   | Xpath        | [Xpath Devhints](https://devhints.io/xpath)                              |
+| 119   | YAML         | [YAML Cheat Sheet](https://lzone.de/#/LZone%20Cheat%20Sheets/Languages/YAML)|
+| 120   | YAML         | [YAML Devhints](https://devhints.io/yaml)                                |
 
 ---
 
@@ -170,14 +171,14 @@ Having a lot of basic information at one glance is often very useful for most de
 
 | **#** | **Platform** | **Link**                                                                 |
 |-------|--------------|--------------------------------------------------------------------------|
-| 120   | GitHub       | [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)    |
-| 121   | GitHub       | [GitHub Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)|
-| 122   | GitLab       | [GitLab Markdown](https://docs.gitlab.com/ee/user/markdown.html)         |
-| 123   | Jupyter      | [Jupyter Notebook Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)|
-| 124   | NPM          | [NPM Devhints](https://devhints.io/npm)                                  |
-| 125   | NPM          | [NPM Cheat Sheet](https://guide.freecodecamp.org/developer-tools/npm-cheatsheet/)|
-| 126   | NPM          | [Creating NPM Package](https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf)|
-| 127   | Yarn         | [Yarn Devhints](https://devhints.io/yarn)                                |
-| 128   | Yarn         | [Yarn Cheat Sheet](https://github.com/areai51/yarn-cheatsheet)           |
+| 121   | GitHub       | [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)    |
+| 122   | GitHub       | [GitHub Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)|
+| 123   | GitLab       | [GitLab Markdown](https://docs.gitlab.com/ee/user/markdown.html)         |
+| 124   | Jupyter      | [Jupyter Notebook Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)|
+| 125   | NPM          | [NPM Devhints](https://devhints.io/npm)                                  |
+| 126   | NPM          | [NPM Cheat Sheet](https://guide.freecodecamp.org/developer-tools/npm-cheatsheet/)|
+| 127   | NPM          | [Creating NPM Package](https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf)|
+| 128   | Yarn         | [Yarn Devhints](https://devhints.io/yarn)                                |
+| 129   | Yarn         | [Yarn Cheat Sheet](https://github.com/areai51/yarn-cheatsheet)           |
 
 ---
